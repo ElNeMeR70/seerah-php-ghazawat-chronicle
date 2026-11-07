@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-ghazawat-chronicle",
+  "description": "Prophetic Ghazawat & Saraya Chronological & Strategic Analyzer (موسوعة الغزوات والسرايا النبوية والتحليل الزمني)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
